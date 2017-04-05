@@ -1,0 +1,15 @@
+*.dmp
+*.ilk
+Build/*.log
+Build/Projects
+Build/obj
+Build/lib/*.lib
+Build/lib/*.pdb
+Build/lib/*.idb
+!Build/lib/awesomium.lib
+Build/bin
+Build/bin64
+Build/lib64
+Build/Bin/logs/
+Build/Bin/server/*.pdb
+Build/Bin/server/logs/

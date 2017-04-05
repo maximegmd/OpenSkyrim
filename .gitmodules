@@ -1,0 +1,3 @@
+[submodule "Code/network/libyojimbo"]
+	path = Code/network/libyojimbo
+	url = git://github.com/networkprotocol/libyojimbo
